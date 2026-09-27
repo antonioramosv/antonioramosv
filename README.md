@@ -59,7 +59,7 @@ Aplicación web para el mantenimiento de equipamiento biomédico hospitalario. S
 <br>&nbsp;
 </td></tr>
 <tr><td>
-<h3><picture><img align="right" src="assets/estado-proximamente.svg" alt="Próximamente"></picture>⚡ Norkua</h3>
+<h3><picture><img align="right" src="assets/estado-proximamente.svg" alt="Próximamente (Lanzamiento Dic '26)"></picture>⚡ Norkua</h3>
 Plataforma para automatizar end-to-end el trabajo del ingeniero industrial: cálculo y expedición de certificaciones energéticas, instalaciones de baja tensión, auditorías energéticas y planes de autoprotección, con facturación y comunicación automática con el cliente para reducir al mínimo la intervención manual.
 <br><br>
 <sub><b>TypeScript · PWA · Offline-first</b></sub>
